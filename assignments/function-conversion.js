@@ -5,6 +5,9 @@
 // };
 // myFunction();
 
+let myFunction= => console.log("Function was invoked!");
+myFunction(); 
+
 // let anotherFunction = function (param) {
 //   return param;
 // };
