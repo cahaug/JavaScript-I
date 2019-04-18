@@ -14,7 +14,7 @@
 // anotherFunction("Example");
 
     const anotherfunction = param => {return param};
-    anotherfunction("Example");
+    console.log(anotherfunction("Example"));
 
 // let add = function (param1, param2) {
 //   return param1 + param2;
